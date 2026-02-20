@@ -1,11 +1,11 @@
 Veri Modelleme ve Bölgesel Tüketim Analizi - Power BI
 
 Bu projede Türkiye genelinde faaliyet gösteren varsayımsal bir kültür & perakende yapısı için 
-veri setlerini sıfırdan ürettim ve bu veriler üzerinden bir Power BI analizi geliştirdim.
+veri setlerini ürettim ve bu veriler üzerinden bir Power BI analizi geliştirdim.
 
 Kurgulanan yapı; kitap, yabancı dil, müzik, elektronik, kırtasiye ve hediyelik ürün kategorilerinde 
 satış yapan çok bölgeli bir perakende organizasyonu olarak tasarlandı. 
-Amaç, gerçek bir kurumu kopyalamak değil; anlamlı bir veri modeli kurup analiz sürecini uçtan uca deneyimlemekti.
+Amaç anlamlı bir veri modeli kurup analiz sürecini uçtan uca deneyimlemekti.
 Veri setleri tarafımdan oluşturuldu, Excel ortamında düzenlendi ve Power BI’a aktarılıp veri modeli kuruldu.
 
 Bu projede neler yaptım?
