@@ -1,4 +1,4 @@
-Veri Modelleme ve Tuketim Analizi - Power BI
+Data Modeling and Consumption Analysis - Power BI
 
 Bu projede Türkiye genelinde faaliyet gösteren varsayımsal bir kültür & perakende yapısı için 
 veri setlerini ürettim ve bu veriler üzerinden bir Power BI analizi geliştirdim.
