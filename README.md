@@ -31,3 +31,6 @@ Power BI – Veri modelleme, DAX hesaplamaları ve dashboard tasarımı
 
 Not:
 Bu projedeki veri setleri gerçeğe dayalı değildir. Analitik düşünme, model kurma ve görselleştirme pratiği amacıyla üretilmiştir.
+
+Power BI üzerinde oluşturduğum raporu aşağıdaki bağlantıdan interaktif olarak görüntüleyebilirsiniz:
+https://app.powerbi.com/groups/me/reports/ebd18782-9627-4d7c-8d8b-1c4c2c3c5aac/f58fbbfa9a2aa61b937b?experience=power-bi
