@@ -1,6 +1,5 @@
 Veri Modelleme ve Bölgesel Tüketim Analizi - Power BI
 
-Proje Hakkında
 Bu projede Türkiye genelinde faaliyet gösteren varsayımsal bir kültür & perakende yapısı için 
 veri setlerini sıfırdan ürettim ve bu veriler üzerinden bir Power BI analizi geliştirdim.
 
