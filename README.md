@@ -1,5 +1,34 @@
 Data Modeling and Consumption Analysis - Power BI
 
+In this project, I generated datasets for a hypothetical culture & retail structure operating across Turkey and developed a Power BI analysis based on this data.
+
+The fictional structure was designed as a multi-regional retail organization selling in categories such as books, foreign languages, music, electronics, stationery, and gift products. The goal was to build a meaningful data model and experience the analysis process from end to end. The datasets were created by me, organized in Excel, and then imported into Power BI to build the data model.
+
+What did I do in this project?
+Created sales, customer, category, and region tables
+Designed the data model by establishing relationships between the tables
+Calculated core metrics such as total sales, average sales amount, and number of customers
+Analyzed category densities and regional distributions
+Designed the dashboard to be simple and readable.
+
+Analysis Approach:
+• In the project, I focused on establishing a connection between performance metrics and behavioral interpretations.
+• While indicators like total sales and average amount measured performance, category and region breakdowns provided room to interpret consumption trends.
+• In particular, regional distribution differences presented a structure showing that consumption is not homogeneous and is affected by different dynamics.
+This work was not just a visualization practice for me, but an attempt to handle the data modeling + analysis + interpretation process as a whole.
+
+Technologies Used:
+Microsoft Excel – Data generation and editing
+Power BI – Data modeling, DAX calculations, and dashboard design
+
+Note:
+The datasets in this project are not based on real data. They were generated solely for the purpose of practicing analytical thinking, modeling, and visualization.
+
+You can interactively view the report I created on Power BI from the link below:
+https://app.powerbi.com/groups/me/reports/ebd18782-9627-4d7c-8d8b-1c4c2c3c5aac/f58fbbfa9a2aa61b937b?experience=power-bi
+
+
+
 Bu projede Türkiye genelinde faaliyet gösteren varsayımsal bir kültür & perakende yapısı için 
 veri setlerini ürettim ve bu veriler üzerinden bir Power BI analizi geliştirdim.
 
